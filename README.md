@@ -1,7 +1,7 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Explorer Lab Card </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido em evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -18,7 +18,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
+<a href="https://explorer-lab-card-two.vercel.app/">
   <img alt="rocketpay" src=".github/project.png" width="100%">
+</a>
 </p>
 
 ## 🚀 Tecnologias
@@ -45,4 +47,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Roberto Oliveira :wave: [Visite o meu Github!](https://github.com/roherool)
